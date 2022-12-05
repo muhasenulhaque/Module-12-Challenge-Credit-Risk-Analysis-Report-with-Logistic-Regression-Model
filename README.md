@@ -23,7 +23,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
            1       0.86      0.90      0.88      1881
             accuracy                   0.99     58152
       macro avg    0.93      0.95      0.94     58152
-    weighted avg   0.99      0.99      0.99     58152
+      weighted avg 0.99      0.99      0.99     58152
 
 * Machine Learning Model 2:
   precision    recall  f1-score   support
@@ -32,7 +32,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
            1       0.99      0.99      0.99     56271
             accuracy                   0.99    112542
       macro avg    0.99      0.99      0.99    112542
-    weighted avg   0.99      0.99      0.99    112542
+      weighted avg 0.99      0.99      0.99    112542
 
 
 ## Summary
